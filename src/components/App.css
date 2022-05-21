@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.navbar {
+  background-color: #232656;
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+.form-des {
+  position: relative;
+  top: 50px;
+  left: 29%;
+}
+
+.form-control {
+  width: 500px;
+}
+
+.select {
+  height: 38px;
+  width: 500px;
+}
+.btn-guardar-form {
+  background-color: #ff6700;
+  color: #ffffff;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 22px;
+}
+
+.text {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 25px;
+}
+
+.img-menu {
+  width: 45px;
+  height: 45px;
+}
